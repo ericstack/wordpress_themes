@@ -15,5 +15,6 @@
 </head>
 <body>
     <h1>Hello Wordpress my Friend</h1>
+    <h2>Hello Wordpress my Friend</h2>
 </body>
 </html>
