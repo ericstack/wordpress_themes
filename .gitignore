@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+composer.lock
+
+# Build files
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS
+Thumbs.db
+.env
+.env.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# Testing
+coverage/
+.phpunit.result.cache
+
+# Temporary files
+*.tmp
+*.bak
